@@ -1,0 +1,759 @@
+@font-face {
+	font-family: 'MoonTime';
+	src:
+		url('./moon_time/MoonTime-Regular.woff2') format('woff2'),
+		url('./moon_time/MoonTime-Regular.woff') format('woff');
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Willmard Valiant Script';
+	src:
+		url('./william/WillmardValiantScript.woff2') format('woff2'),
+		url('./william/WillmardValiantScript.woff') format('woff');
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Vogue';
+	src: url('./vogue/Vogue.woff2') format('woff2');
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap;
+}
+
+/* Mongolia fonts */
+@font-face {
+	font-family: 'Studio';
+	src: url('./studio/Studio-Script.woff2') format('woff2');
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap;
+}
+@font-face {
+	font-family: 'Tagir';
+	src:
+		url('./tagir/MogulTagir.woff2') format('woff2'),
+		url('./tagir/MogulTagir.woff') format('woff');
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap;
+}
+@font-face {
+	font-family: 'Stilla';
+	src:
+		url('./mongol/subset-MogulStilla.woff2') format('woff2');
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Skidoos';
+	src:
+		url('./mongol/subset-MogulSkidoos.woff2') format('woff2');
+	font-weight: normal;
+	font-style: italic;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Pacifico';
+	src:
+		url('./mongol/subset-Pacifico-Regular.woff2') format('woff2');
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Japan';
+	src:
+		url('./mongol/subset-MogulJapan.woff2') format('woff2'),
+		url('./mongol/subset-MogulJapan.woff') format('woff');
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'a_MonumentoTitulGr';
+	src:
+		url('./mongol/AMonumentoTitulGr.woff2') format('woff2'),
+		url('./mongol/AMonumentoTitulGr.woff') format('woff');
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Europe';
+	src:
+		url('./mongol/subset-MogulEurope-ExpandedRegularItalic.woff2')
+			format('woff2'),
+		url('./mongol/subset-MogulEurope-ExpandedRegularItalic.woff') format('woff');
+	font-weight: normal;
+	font-style: italic;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'FreeStyle';
+	src:
+		url('./mongol/subset-MogulFreeStyle.woff2') format('woff2'),
+		url('./mongol/subset-MogulFreeStyle.woff') format('woff');
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Empirial';
+	src:
+		url('./mongol/subset-MogulEmpirial.woff2') format('woff2'),
+		url('./mongol/subset-MogulEmpirial.woff') format('woff');
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Elizaz';
+	src:
+		url('./mongol/subset-MogulElizaz.woff2') format('woff2'),
+		url('./mongol/subset-MogulElizaz.woff') format('woff');
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Digital';
+	src:
+		url('./mongol/subset-MogulDigital.woff2') format('woff2'),
+		url('./mongol/subset-MogulDigital.woff') format('woff');
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Deutsch Gothic';
+	src:
+		url('./mongol/subset-MogulDeutschGothic.woff2') format('woff2'),
+		url('./mongol/subset-MogulDeutschGothic.woff') format('woff');
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Bangkok';
+	src:
+		url('./mongol/subset-MogulBangkok.woff2') format('woff2'),
+		url('./mongol/subset-MogulBangkok.woff') format('woff');
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap;
+}
+
+/* Mongolian fonts end */
+
+@font-face {
+	font-family: 'Handsta Signature';
+	src:
+		url('./signature/HandstaSignatureRegular.woff2') format('woff2'),
+		url('./signature/HandstaSignatureRegular.woff') format('woff');
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'NewYork';
+	src:
+		url('./newYork/NewYork.woff2') format('woff2'),
+		url('./newYork/NewYork.woff') format('woff');
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Nesans';
+	src:
+		url('./nesans/NesansRegular.woff2') format('woff2'),
+		url('./nesans/NesansRegular.woff') format('woff');
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Luxoorea';
+	src:
+		url('./luxoorea/Luxoorea.woff2') format('woff2'),
+		url('./luxoorea/Luxoorea.woff') format('woff');
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Aqala Display';
+	src:
+		url('./aqala/AqalaDisplay-Regular.woff2') format('woff2'),
+		url('./aqala/AqalaDisplay-Regular.woff') format('woff');
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Japanese';
+	src:
+		url('./japanese/Japanese3017.woff2') format('woff2'),
+		url('./japanese/Japanese3017.woff') format('woff');
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Attack Graffiti';
+	src:
+		url('./graffiti/aAttackGraffiti.woff2') format('woff2'),
+		url('./graffiti/aAttackGraffiti.woff') format('woff');
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap;
+}
+@font-face {
+	font-family: 'Boomster Graffiti';
+	src:
+		url('./graffiti/BOOMSTERGraffiti.woff2') format('woff2'),
+		url('./graffiti/BOOMSTERGraffiti.woff') format('woff');
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Don Graffiti';
+	src:
+		url('./graffiti/DonGraffitiRegular.woff2') format('woff2'),
+		url('./graffiti/DonGraffitiRegular.woff') format('woff');
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap;
+}
+@font-face {
+	font-family: 'Graffiti Line';
+	src:
+		url('./graffiti/GraffitiLineRegular.woff2') format('woff2'),
+		url('./graffiti/GraffitiLineRegular.woff') format('woff');
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap;
+}
+@font-face {
+	font-family: 'Press Start';
+	src:
+		url('./PressStart/PressStart2P-Regular.woff2') format('woff2'),
+		url('./PressStart/PressStart2P-Regular.woff') format('woff');
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap;
+}
+@font-face {
+	font-family: 'Bebas';
+	src:
+		url('./bebas/BebasNeue-Book.woff2') format('woff2'),
+		url('./bebas/BebasNeue-Book.woff') format('woff');
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap;
+}
+@font-face {
+	font-family: 'Shirkhand';
+	src:
+		url('./Shirkhand/Shrikhand-Regular.woff2') format('woff2'),
+		url('./Shirkhand/Shrikhand-Regular.woff') format('woff');
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap;
+}
+@font-face {
+	font-family: 'Cloister';
+	src:
+		url('./cloister/CloisterBlack-Light.woff2') format('woff2'),
+		url('./cloister/CloisterBlack-Light.woff') format('woff');
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap;
+}
+@font-face {
+	font-family: 'Thundergood';
+	src:
+		url('./thundergood/ThundergoodRegular.woff2') format('woff2'),
+		url('./thundergood/ThundergoodRegular.woff') format('woff');
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'icomoon';
+	src: url('./icon/icomoon.eot?1ttk0k');
+	src:
+		url('./icon/icomoon.eot?1ttk0k#iefix') format('embedded-opentype'),
+		url('./icon/icomoon.ttf?1ttk0k') format('truetype'),
+		url('./icon/icomoon.woff?1ttk0k') format('woff'),
+		url('./icon/icomoon.svg?1ttk0k#icomoon') format('svg');
+	font-weight: normal;
+	font-style: normal;
+	font-display: block;
+}
+
+[class^='icon-'],
+[class*=' icon-'] {
+	/* use !important to prevent issues with browser extensions that change fonts */
+	font-family: 'icomoon' !important;
+	speak: never;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+
+	/* Better Font Rendering =========== */
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+.icon-image:before {
+	content: '\e96d';
+}
+.icon-move:before {
+	content: '\e90b';
+}
+.icon-rect-fill:before {
+	content: '\e91d';
+}
+.icon-radius-2:before {
+	content: '\e900';
+}
+.icon-cart-outline:before {
+	content: '\e901';
+}
+.icon-cart-bag:before {
+	content: '\e902';
+}
+.icon-replace-2:before {
+	content: '\e903';
+}
+.icon-unlock:before {
+	content: '\e904';
+}
+.icon-lock:before {
+	content: '\e905';
+}
+.icon-d:before {
+	content: '\e906';
+}
+.icon-arrow-down:before {
+	content: '\e907';
+}
+.icon-arrow-up:before {
+	content: '\e908';
+}
+.icon-arrow-left:before {
+	content: '\e909';
+}
+.icon-arrow-right:before {
+	content: '\e90a';
+}
+.icon-text-arc:before {
+	content: '\e90c';
+}
+.icon-angle-bold:before {
+	content: '\e90d';
+}
+.icon-lightning-fill:before {
+	content: '\e90e';
+}
+.icon-text--add:before {
+	content: '\e90f';
+}
+.icon-text:before {
+	content: '\e910';
+}
+.icon-group:before {
+	content: '\e911';
+}
+.icon-paint-pallet:before {
+	content: '\e912';
+}
+.icon-yaay-bomb .path1:before {
+	content: '\e913';
+	color: inherit;
+	opacity: 0.1;
+}
+.icon-yaay-bomb .path2:before {
+	content: '\e914';
+	margin-left: -1em;
+	color: inherit;
+}
+.icon-yaay-bomb .path3:before {
+	content: '\e915';
+	margin-left: -1em;
+	color: inherit;
+}
+.icon-yaay-bomb .path4:before {
+	content: '\e916';
+	margin-left: -1em;
+	color: inherit;
+}
+.icon-yaay-bomb .path5:before {
+	content: '\e917';
+	margin-left: -1em;
+	color: inherit;
+}
+.icon-yaay-bomb .path6:before {
+	content: '\e918';
+	margin-left: -1em;
+	color: inherit;
+}
+.icon-yaay-bomb .path7:before {
+	content: '\e919';
+	margin-left: -1em;
+	color: inherit;
+}
+.icon-yaay-bomb .path8:before {
+	content: '\e91a';
+	margin-left: -1em;
+	color: inherit;
+}
+.icon-yaay-bomb .path9:before {
+	content: '\e91b';
+	margin-left: -1em;
+	color: inherit;
+}
+.icon-plus-bold:before {
+	content: '\e91c';
+}
+.icon-cart:before {
+	content: '\e91e';
+}
+.icon-clear:before {
+	content: '\e91f';
+}
+.icon-bold:before {
+	content: '\e920';
+}
+.icon-rect-select:before {
+	content: '\e921';
+}
+.icon-replace-3:before {
+	content: '\e922';
+}
+.icon-drag:before {
+	content: '\e923';
+}
+.icon-ue948-tabler_x:before {
+	content: '\e924';
+}
+.icon-letter-spacing:before {
+	content: '\e925';
+}
+.icon-alert:before {
+	content: '\e926';
+}
+.icon-shadow:before {
+	content: '\e927';
+}
+.icon-square-shadow:before {
+	content: '\e928';
+}
+.icon-crop:before {
+	content: '\e929';
+}
+.icon-eyedropper-fill:before {
+	content: '\e92a';
+}
+.icon-heart-fill:before {
+	content: '\e92b';
+}
+.icon-background:before {
+	content: '\e92c';
+}
+.icon-template-layout:before {
+	content: '\e92d';
+}
+.icon-text-color:before {
+	content: '\e92e';
+}
+.icon-filter .path1:before {
+	content: '\e92f';
+	color: inherit;
+	opacity: 0.4;
+}
+.icon-filter .path2:before {
+	content: '\e930';
+	margin-left: -1em;
+	color: inherit;
+	opacity: 0.6;
+}
+.icon-filter .path3:before {
+	content: '\e931';
+	margin-left: -1em;
+	color: inherit;
+}
+.icon-group-add:before {
+	content: '\e932';
+}
+.icon-chevron-down:before {
+	content: '\e933';
+}
+.icon-chevron-up:before {
+	content: '\e934';
+}
+.icon-chevron-left:before {
+	content: '\e935';
+}
+.icon-chevron-right:before {
+	content: '\e936';
+}
+.icon-more:before {
+	content: '\e937';
+}
+.icon-replace:before {
+	content: '\e938';
+}
+.icon-remove-background:before {
+	content: '\e939';
+}
+.icon-star-fill:before {
+	content: '\e93a';
+}
+.icon-hexagon-fill:before {
+	content: '\e93b';
+}
+.icon-search:before {
+	content: '\e93c';
+}
+.icon-check-fill:before {
+	content: '\e93d';
+}
+.icon-ocument-none:before {
+	content: '\e93e';
+}
+.icon-dice:before {
+	content: '\e93f';
+}
+.icon-text-stroke-effect:before {
+	content: '\e940';
+}
+.icon-text-aa:before {
+	content: '\e941';
+}
+.icon-elements:before {
+	content: '\e942';
+}
+.icon-sticker:before {
+	content: '\e943';
+}
+.icon-template:before {
+	content: '\e944';
+}
+.icon-images:before {
+	content: '\e945';
+}
+.icon-flip-y:before {
+	content: '\e946';
+}
+.icon-flip-x:before {
+	content: '\e947';
+}
+.icon-color-add:before {
+	content: '\e948';
+}
+.icon-stars:before {
+	content: '\e949';
+}
+.icon-stroke:before {
+	content: '\e94a';
+}
+.icon-layer-up .path1:before {
+	content: '\e94b';
+	color: inherit;
+	opacity: 0.7;
+}
+.icon-layer-up .path2:before {
+	content: '\e94c';
+	margin-left: -1em;
+	color: inherit;
+}
+.icon-layer-down .path1:before {
+	content: '\e94d';
+	color: inherit;
+}
+.icon-layer-down .path2:before {
+	content: '\e94e';
+	margin-left: -1em;
+	color: inherit;
+	opacity: 0.7;
+}
+.icon-layer0-backward .path1:before {
+	content: '\e94f';
+	color: inherit;
+}
+.icon-layer0-backward .path2:before {
+	content: '\e950';
+	margin-left: -1em;
+	color: inherit;
+	opacity: 0.7;
+}
+.icon-layer0-backward .path3:before {
+	content: '\e951';
+	margin-left: -1em;
+	color: inherit;
+	opacity: 0.7;
+}
+.icon-layer-forward .path1:before {
+	content: '\e952';
+	color: inherit;
+}
+.icon-layer-forward .path2:before {
+	content: '\e953';
+	margin-left: -1em;
+	color: inherit;
+	opacity: 0.7;
+}
+.icon-layer-forward .path3:before {
+	content: '\e954';
+	margin-left: -1em;
+	color: inherit;
+	opacity: 0.7;
+}
+.icon-layer-backward-with-arrow .path1:before {
+	content: '\e955';
+	color: inherit;
+}
+.icon-layer-backward-with-arrow .path2:before {
+	content: '\e956';
+	margin-left: -1em;
+	color: inherit;
+	opacity: 0.7;
+}
+.icon-layer-backward-with-arrow .path3:before {
+	content: '\e957';
+	margin-left: -1em;
+	color: inherit;
+	opacity: 0.7;
+}
+.icon-layer-backward-with-arrow .path4:before {
+	content: '\e958';
+	margin-left: -1em;
+	color: inherit;
+}
+.icon-layer-down-with-arrow .path1:before {
+	content: '\e959';
+	color: inherit;
+}
+.icon-layer-down-with-arrow .path2:before {
+	content: '\e95a';
+	margin-left: -1em;
+	color: inherit;
+	opacity: 0.7;
+}
+.icon-layer-down-with-arrow .path3:before {
+	content: '\e95b';
+	margin-left: -1em;
+	color: inherit;
+}
+.icon-layer-up-with-arrow .path1:before {
+	content: '\e95c';
+	color: inherit;
+	opacity: 0.7;
+}
+.icon-layer-up-with-arrow .path2:before {
+	content: '\e95d';
+	margin-left: -1em;
+	color: inherit;
+}
+.icon-layer-up-with-arrow .path3:before {
+	content: '\e95e';
+	margin-left: -1em;
+	color: inherit;
+}
+.icon-layer-forward-with-arrow .path1:before {
+	content: '\e95f';
+	color: inherit;
+}
+.icon-layer-forward-with-arrow .path2:before {
+	content: '\e960';
+	margin-left: -1em;
+	color: inherit;
+	opacity: 0.7;
+}
+.icon-layer-forward-with-arrow .path3:before {
+	content: '\e961';
+	margin-left: -1em;
+	color: inherit;
+	opacity: 0.7;
+}
+.icon-layer-forward-with-arrow .path4:before {
+	content: '\e962';
+	margin-left: -1em;
+	color: inherit;
+}
+.icon-duplicate:before {
+	content: '\e963';
+}
+.icon-move-right:before {
+	content: '\e964';
+}
+.icon-move-left:before {
+	content: '\e965';
+}
+.icon-center-y:before {
+	content: '\e966';
+}
+.icon-center-x:before {
+	content: '\e967';
+}
+.icon-magic:before {
+	content: '\e968';
+}
+.icon-layer:before {
+	content: '\e969';
+}
+.icon-park-solid:before {
+	content: '\e96a';
+}
+.icon-ue907-ph_sticker-bold:before {
+	content: '\e96b';
+}
+.icon-radius:before {
+	content: '\e96c';
+}
+.icon-circle-fill:before {
+	content: '\e96e';
+}
+.icon-triangle-fill:before {
+	content: '\e96f';
+}
+.icon-text-align-center:before {
+	content: '\e970';
+}
+.icon-text-align-left:before {
+	content: '\e971';
+}
+.icon-text-align-right:before {
+	content: '\e972';
+}
